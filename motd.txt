@@ -1,0 +1,5 @@
+Changes :
+1. Added new tools, keypad cracker, textscreen, etc...
+2. Updated money printers
+3. Updated HUD
+4. Fixed bug with jobs menu
